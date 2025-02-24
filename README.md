@@ -38,7 +38,4 @@ Neural Network Result: <some_value>
 ```
 
 ## Author  
-Developed by **Khaled Zakaria**  
-
----
-This is a simple example to demonstrate neural network construction using PyTorch. Feel free to modify and extend it for your needs! 🚀  
+Developed by **Khaled Zakaria**    
